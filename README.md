@@ -35,4 +35,4 @@
 <br>
 <br>
  
-<img width="80%" src="https://count.getloli.com/@042-new?theme=asoul&padding=7&offset=0&align=top&pixelated=1&darkmode=auto" alt="Visitor Count" />
+<img width="80%" src="https://count.getloli.com/@SKDG042?theme=asoul&padding=7&offset=0&align=top&pixelated=1&darkmode=auto" alt="Visitor Count" />
